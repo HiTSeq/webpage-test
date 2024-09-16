@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sometitle
+title: Committees
 ---
 
 
