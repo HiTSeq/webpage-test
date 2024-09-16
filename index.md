@@ -14,8 +14,10 @@ title: Sometitle
             high-throughput sequencing (HTS) data. It provides a forum for in
             depth presentations of novel algorithms, analysis methods, and
             methods enabling applications in multiple areas of biology that HTS
-            is transforming. </div>
-          <div id="col1">
+            is transforming.
+</div>
+
+<div id="col1">
             <h3>Call for Submissions</h3>
             <ul class="section-list">
               <li class="first"> <br />
@@ -42,8 +44,9 @@ title: Sometitle
                   <p></p>
                 </span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#595959"><b></b></span></li>
             </ul>
-          </div>
-          <div id="col2"><br />
+</div>
+
+<div id="col2"><br />
             <br />
             <ul class="section-list">
               <li class="first"> <br />
@@ -60,16 +63,14 @@ title: Sometitle
                   novel data analysis modalities are applied. We thus seek
                   contributions where algorithms and methods that take HTS data
                   and convert this into a biological signal.  <br />
-                  <!--
-                  <p> Topics of interest include, but are not limited to: <strong>Genome                      structure (3D conformation, structural variation, TAD                      fusions, etc.) and technologies that enable its analysis:                      Single molecule sequencing, Linked-Reads / read clouds,                      long range and Hi-C sequencing protocols. Microbial                      surveillance and pan-genomes from environmental and                      healthcare sampling. Cancer genomics and precision                      oncology from sequencing data of tumors and circulating                      tumor DNA. </strong></p> -->
                   <p> </p>
                 </span> </li>
-              <li class="last"><span></span><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#595959"></span><span></span><br />
+              <li class="last"><br />
               </li>
             </ul>
             <p><br />
             </p>
             <ul class="section-list">
             </ul>
-          </div>
-          <br class="clearfix" />
+</div>
+          
