@@ -10,6 +10,4 @@ title: Registration
                 href="https://www.iscb.org/ismb2024/register">Registrations
                 page</a> of the ISMB main conference site. </p>
             <p> </p>
-          </div>
-          <br />
 </div>
