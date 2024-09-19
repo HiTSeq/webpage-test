@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Schedule
+title: Schedule 2024
 ---
 
 
 <div class="box">
-          <h3>Keynote speakers</h3>
+  <h2>Schedule of HiTSeq 2024</h2>
+     <h3>Keynote speakers</h3>
 
 
           <br />
