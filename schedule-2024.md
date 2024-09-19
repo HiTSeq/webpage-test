@@ -5,7 +5,7 @@ title: Schedule 2024
 
 
 <div class="box">
-  <h2>Schedule of HiTSeq 2024</h2>
+  <h2>Schedule of HiTSeq 2024<br />July 13-14, 2024, Montreal, QC, Canada</h2>
      <h3>Keynote speakers</h3>
 
 
