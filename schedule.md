@@ -118,7 +118,7 @@ title: Schedule
   <td style="vertical-align: top;">Proceedings Presentation: CREMSA: Compressed Indexing of (Ultra) Large Multiple Sequence Alignments<br/>Mikaël Salson, Arthur Boddaert, Awa Bousso Gueye, Laurent Bulteau, Yohan Hernandez-Courbevoie, Camille Marchet, Nan Pan, Sebastian Will, Yann Ponty<br/>Presenter Mikaël Salson, CNRS, France (in person)</td>
 </tr>
 <tr>
- <td style="vertical-align: top;"><strong>Proceedings Presentation: 11:40-12:00</strong></td>
+ <td style="vertical-align: top;"><strong>11:40-12:00</strong></td>
  <td style="vertical-align: top;">Proceedings Presentation: Exploiting uniqueness: seed-chain-extend alignment on elastic founder graphs<br/>Nicola Rizzo, Manuel Cáceres, Veli Mäkinen<br/>Presenter Nicola Rizzo, University of Helsinki, Finland (in person)</td>
 </tr>
 <tr>
